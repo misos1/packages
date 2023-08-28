@@ -1,6 +1,7 @@
 ## 0.9.13+4
 
 * Ignores audio samples until the first video sample arrives.
+* Updates minimum supported SDK version to Flutter 3.7/Dart 2.19.
 
 ## 0.9.13+3
 
